@@ -7,4 +7,14 @@ public class GitTest {
 		System.out.println("this is just a test");
 		
 	}
+	
+	
+	 public void test2() {
+		 System.out.println("this is class practice");
+		 
+		 
+		 
+		 
+		 
+	 }
 }
