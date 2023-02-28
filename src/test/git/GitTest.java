@@ -20,6 +20,6 @@ public class GitTest {
 	 public void test3() {
 		 System.out.println("this is class practice");
 		 
-	
+	 }
 	
 }
